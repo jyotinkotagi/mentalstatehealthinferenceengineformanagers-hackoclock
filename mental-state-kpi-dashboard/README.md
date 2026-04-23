@@ -12,8 +12,8 @@ An intelligent analytics platform designed to help managers understand and monit
   Easy-to-understand visualizations
 
 ##  Live Demo
- Try the application here:  
-https://http://localhost:8502/
+ Try the application here: 
+ https://mentalstatehealthinferenceengineformanagers-hackoclock-dkhw7zq.streamlit.app/
 
 ## Tech Stack
 
