@@ -1,5 +1,5 @@
 def classify_state(score):
-    if score >= 75:
+    if score >= 70:
         return "🟢 Healthy"
     elif score >= 50:
         return "🟠 low stress"
