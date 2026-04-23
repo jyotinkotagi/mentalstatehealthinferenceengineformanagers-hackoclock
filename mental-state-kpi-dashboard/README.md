@@ -16,7 +16,7 @@ An intelligent analytics platform designed to help managers understand and monit
 - Python
 - Streamlit
 - Pandas & NumPy
-- Machine Learning / NLP (if used)
+- Machine Learning 
 - Data Visualization
 
 ## How It Works
