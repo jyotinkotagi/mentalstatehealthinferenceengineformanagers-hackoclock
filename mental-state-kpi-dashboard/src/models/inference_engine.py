@@ -1,7 +1,7 @@
 def classify_state(score):
     if score >= 75:
-        return "Healthy"
+        return "🟢 Healthy"
     elif score >= 50:
-        return "At Risk"
+        return "🟠 low stress"
     else:
-        return "Critical"
+        return "🔴 Burnout Risk"
