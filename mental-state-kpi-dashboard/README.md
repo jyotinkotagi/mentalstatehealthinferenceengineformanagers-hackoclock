@@ -11,6 +11,10 @@ An intelligent analytics platform designed to help managers understand and monit
   Early detection of burnout risk
   Easy-to-understand visualizations
 
+##  Live Demo
+ Try the application here:  
+https://http://localhost:8502/
+
 ## Tech Stack
 
 - Python
