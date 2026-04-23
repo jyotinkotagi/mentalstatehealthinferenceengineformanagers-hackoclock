@@ -1,3 +1,4 @@
+from src.models.inference_engine import classify_state
 import streamlit as st
 import plotly.express as px
 from src.data.data_generator import generate_data
